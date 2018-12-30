@@ -7,9 +7,8 @@ LEDを2つ点灯させ, logを書き込ませる
 * 動画: https://www.youtube.com/watch?v=T2O8ubznePI
 
 ### 動作方法
-
-```
 * LEDの確認
+
 ```
 $make 
 $sudo insmod myled.ko
